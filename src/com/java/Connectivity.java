@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 public class Connectivity {
 public static void main(String[] args) throws Exception {
-
+System.out.println("Github");
 	Scanner sc = new Scanner(System.in);
 	System.out.println(1);
 	Class.forName("com.mysql.cj.jdbc.Driver");
